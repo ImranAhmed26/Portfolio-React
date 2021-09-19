@@ -12,11 +12,11 @@ const Hero = () => (
         I am Imran Ahmed
       </SectionTitle>
       <SectionText>
-      An electrical and designing enthusiast with the vision to pursue 
+      A designing and programming enthusiast with the vision to pursue 
       an aspiring and challenging post where I can reach my full potential and 
       contribute to the growth of the company.
       </SectionText>
-      <Button onClick = {() => window.location = 'https://drive.google.com/file/d/1bX9NqfauHGx73eWzTjdCpxl4QQUi9xbY/view?usp=sharing'} > Personal Resume </Button>
+      <Button onClick = {() => window.location = 'https://drive.google.com/file/d/1bX9NqfauHGx73eWzTjdCpxl4QQUi9xbY/view?usp=sharing' } > Personal Resume </Button>
        </LeftSection>
     
  </Section>
