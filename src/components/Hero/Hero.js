@@ -8,13 +8,11 @@ const Hero = () => (
  <Section row nopadding>
     <LeftSection>
       <SectionTitle main center>
-        Hi,   <br/>
-        I am Imran Ahmed
+        Hello!   <br/>
+        I'm Imran Ahmed
       </SectionTitle>
       <SectionText>
-      A designing and programming enthusiast with the vision to pursue 
-      an aspiring and challenging post where I can reach my full potential and 
-      contribute to the growth of the company.
+      A designing and programming enthusiast with keen interest in React JS and Node JS. I am based in Dhaka and love to design and build exciting websites and web applications
       </SectionText>
       <Button onClick = {() => window.location = 'https://drive.google.com/file/d/1bX9NqfauHGx73eWzTjdCpxl4QQUi9xbY/view?usp=sharing' } > Personal Resume </Button>
        </LeftSection>
