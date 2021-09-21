@@ -11,7 +11,7 @@ export const projects = [
   },
   {
     title: 'Landing Page',
-    description:"T I designed this landgin page as a freelance project for a client named Todd on freelancer.com.",
+    description:"I designed this landgin page as a freelance project for a client named Todd on freelancer.com.",
     image: '/images/2.png',
     tags: [ 'JavaScript', 'CSS'],
     source: 'https://github.com/ImranAhmed26/Toppi-landing-page/blob/master/index.html',
