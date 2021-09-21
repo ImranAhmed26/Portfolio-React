@@ -1,3 +1,4 @@
 ## Personal Portfolio
 
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
+![Portfolio Website](https://i.postimg.cc/SsnKVkYR/Screenshot-2021-09-22-024407.png)
+
