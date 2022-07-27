@@ -46,11 +46,10 @@ const Timeline = () => {
 <Section id="about">
     <SectionTitle>About Me</SectionTitle>
     <SectionText>
-    I am a recent EEE graduate from American International University- Bangladesh [AIUB]. <br/> 
     
-     I love coding and like to keep developing my programming skills everyday.
-     My vision is to design and develop minimalistic and modern looking websites.
-     Currently, I am developing my React JS skills and very much keen on learning Node JS.
+     I love coding in JavaScript and like to keep developing my programming skills everyday.
+     My vision is to design and develop minimalistic and cutting edge web applications. <br/>
+     Currently, I am employed as a MERN Stack developer.
 
     </SectionText>
     <br/>

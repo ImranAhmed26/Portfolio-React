@@ -10,16 +10,16 @@ const Footer = () => {
       <LinkList>
         <LinkColumn>
         <LinkTitle>Call</LinkTitle>
-        <LinkItem href="tel:01764005558">01764005558</LinkItem>
+        <LinkItem href="tel:01787939051">01787939051</LinkItem>
         </LinkColumn>
         <LinkColumn>
         <LinkTitle>Email</LinkTitle>
-        <LinkItem href="mailto:ahmed.imran@ieee.org">ahmed.imran@ieee.org</LinkItem>
+        <LinkItem href="mailto:imran.ahk26@gmail.com">imran.ahk26@gmail.com</LinkItem>
         </LinkColumn>
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>This portfolio website was designed using React JS  </Slogan>
+          <Slogan> Imran Ahmed | 2022 </Slogan>
         </CompanyContainer>
         <SocialContainer>
         <SocialIcons href="https://github.com/ImranAhmed26">

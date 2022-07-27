@@ -12,9 +12,9 @@ const Hero = () => (
         I'm Imran Ahmed
       </SectionTitle>
       <SectionText>
-      A designing and programming enthusiast with keen interest in React JS and Node JS. I am based in Dhaka and love to design and build exciting websites and web applications
+      A programming enthusiast in love with JavaScrip. Based in Dhaka currently I am employed as a Jr. Fullstack Developer and developing web applications using the MERN Stack.
       </SectionText>
-      <Button onClick = {() => window.location = 'https://drive.google.com/file/d/1bX9NqfauHGx73eWzTjdCpxl4QQUi9xbY/view?usp=sharing' } > Personal Resume </Button>
+      <Button onClick = {() => window.location = 'https://drive.google.com/file/d/13Osa-ZRS6U2QkwjUjYZxbg4Hj6y4F_Nw/view?usp=sharing' } > Personal Resume </Button>
        </LeftSection>
     
  </Section>

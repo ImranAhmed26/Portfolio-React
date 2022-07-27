@@ -1,5 +1,5 @@
 import React from 'react';
-import { DiAtom, DiCode, DiFirebase, DiGoogleAnalytics, DiJavascript, DiOnedrive, DiPhotoshop, DiReact, DiTerminal, DiWindows, DiZend } from 'react-icons/di';
+import { DiGoogleAnalytics, DiPhotoshop, DiReact } from 'react-icons/di';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
 
@@ -11,9 +11,23 @@ const Technologies = () =>  (
 
  <SectionTitle>Technologies</SectionTitle>
  <SectionText>
-   I've worked with a range of Technologies in the web developement world mostly related to the front-end
+   I've worked with a range of Technologies in the web developement sector mostly using the MERN Stack.
  </SectionText>
  <List>
+ 
+ <ListItem>
+     <DiGoogleAnalytics size="3rem"/>
+       <ListContainer>
+         <ListTitle>Back-End </ListTitle>
+         <ListParagraph>
+           <br/>
+           Node JS <br/>
+           Express <br/>
+           Mongoose<br/>
+         </ListParagraph>
+       </ListContainer>
+   </ListItem>
+
    <ListItem>
      <DiReact size="3rem"/>
        <ListContainer>
@@ -43,18 +57,6 @@ const Technologies = () =>  (
        </ListContainer>
    </ListItem>
 
-   <ListItem>
-     <DiGoogleAnalytics size="3rem"/>
-       <ListContainer>
-         <ListTitle>Simulation and Engineering</ListTitle>
-         <ListParagraph>
-           <br/>
-           Proteus <br/>
-           MATLAB & Simulink <br/>
-           Multisim<br/>
-         </ListParagraph>
-       </ListContainer>
-   </ListItem>
  </List>
  
  
