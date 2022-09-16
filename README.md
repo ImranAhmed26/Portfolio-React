@@ -4,7 +4,7 @@
 ##  React | Next JS | Vercel.app
 
 ```
-This is my portfolio website.
+This is my portfolio website created using Next JS and styled components.
 
 ```
 
