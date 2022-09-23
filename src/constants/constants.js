@@ -14,8 +14,8 @@ export const projects = [
     description:"I am a part of this long term MERN Stack project that is a closed community recycling plastic trading hub.The source code is not available as this is a company project.",
     image: '/images/2.jpg',
     tags: [ 'Node JS','React','MongoDB', 'Tailwind'],
-    source: 'dev.gprc.uk',
-    visit: 'dev.gprc.uk',
+    source: 'https://dev.gprc.uk',
+    visit: 'https://dev.gprc.uk',
     id: 1,
   },
   {
