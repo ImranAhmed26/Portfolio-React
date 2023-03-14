@@ -10,12 +10,12 @@ export const projects = [
     id: 0,
   },
   {
-    title: 'GPRC UK ',
+    title: 'GPRC US ',
     description:"I am a part of this long term MERN Stack project that is a closed community recycling plastic trading hub.The source code is not available as this is a company project.",
     image: '/images/2.jpg',
     tags: [ 'Node JS','React','MongoDB', 'Tailwind'],
-    source: 'https://dev.gprc.uk',
-    visit: 'https://dev.gprc.uk',
+    source: 'https://dev.gprc.us',
+    visit: 'https://dev.gprc.us',
     id: 1,
   },
   {
