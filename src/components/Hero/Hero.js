@@ -14,7 +14,7 @@ const Hero = () => (
       <SectionText>
       A programming enthusiast in love with JavaScrip. Based in Dhaka currently I am employed as a Jr. Fullstack Developer and developing web applications using the MERN Stack.
       </SectionText>
-      <Button onClick = {() => window.location = 'https://drive.google.com/file/d/1SvffbMCVBqSVoW7NvzeSlDcylOFUmbyw/view?usp=sharing' } > Resume </Button>
+      <Button onClick = {() => window.location = 'https://drive.google.com/file/d/1X7Y6dGAg_aNowdsmHwLacxWEU8LAt1RN/view?usp=share_link' } > Resume </Button>
        </LeftSection>
     
  </Section>
